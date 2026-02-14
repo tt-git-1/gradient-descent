@@ -78,16 +78,6 @@ You can modify the following parameters in `main.py`:
 
 *Animation showing gradient descent with momentum optimizing a complex loss function*
 
-### Converting MP4 to GIF
-
-To convert the generated MP4 animation to GIF format, run:
-
-```bash
-python convert_to_gif.py
-```
-
-This will create `example.gif` from `example.mp4`.
-
 ## How It Works
 
 1. **Initialization**: Starts with a random parameter value
