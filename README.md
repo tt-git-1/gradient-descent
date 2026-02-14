@@ -2,6 +2,8 @@
 
 This project visualizes the gradient descent optimization algorithm with momentum using Python animations. It demonstrates how the algorithm navigates through a complex loss function to find optimal parameters.
 
+This code was written by **Qwen3-Coder-Next-8bit**.
+
 ## Overview
 
 The simulation creates an animated visualization of gradient descent optimization, showing:
