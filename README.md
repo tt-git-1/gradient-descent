@@ -12,6 +12,10 @@ The simulation creates an animated visualization of gradient descent optimizatio
 - The gradient (tangent line) at the current position
 - Real-time updates of iteration count, parameter value, loss, gradient, and velocity
 
+![Gradient Descent Animation](example.gif)
+
+*Animation showing gradient descent with momentum optimizing a complex loss function*
+
 ## Features
 
 - **Momentum-based Optimization**: Uses momentum to help escape local minima and accelerate convergence
@@ -73,12 +77,6 @@ You can modify the following parameters in `main.py`:
 | `DATA` | 50 | Range for parameter values (-DATA to +DATA) |
 | `learning_rate` | 0.002 | Step size for each update |
 | `momentum` | 0.99 | Momentum coefficient (higher = more momentum) |
-
-## Example Output
-
-![Gradient Descent Animation](example.gif)
-
-*Animation showing gradient descent with momentum optimizing a complex loss function*
 
 ## How It Works
 
