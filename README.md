@@ -74,9 +74,19 @@ You can modify the following parameters in `main.py`:
 
 ## Example Output
 
-![Gradient Descent Animation](example.mp4)
+![Gradient Descent Animation](example.gif)
 
 *Animation showing gradient descent with momentum optimizing a complex loss function*
+
+### Converting MP4 to GIF
+
+To convert the generated MP4 animation to GIF format, run:
+
+```bash
+python convert_to_gif.py
+```
+
+This will create `example.gif` from `example.mp4`.
 
 ## How It Works
 
